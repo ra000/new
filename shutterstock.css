@@ -1,0 +1,25 @@
+h1,h2{font-family:cursive;
+      color:grey;
+     }
+h1,h2{
+   border:5px solid black;
+ 
+} 
+
+p{
+  color:black;
+  border:2px solid black;
+  font-style:oblique;
+  padding:5%;    
+ font-size:bigger;
+}
+p.shut{
+                 color:green;
+}
+p.meet{
+       color:blueviolet;
+}
+em.last{
+                color:navy;
+            
+}
